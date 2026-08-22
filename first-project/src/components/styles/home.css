@@ -1,0 +1,44 @@
+h1{
+    justify-self: center;
+    padding: 20px;
+    font-family: cursive;
+}
+
+h2{
+    padding: 10px;
+    font-size: 18px;
+}
+
+h4{
+    padding: 3px;
+    padding-left: 8px;
+}
+
+section div{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+div img{
+    width: 250px;
+    align-self: center;
+}
+
+section div main:hover{
+    transform: scale(1.01);
+    transition: 0.3s;
+}
+
+section div main{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+section{
+    padding: 20px;
+}
