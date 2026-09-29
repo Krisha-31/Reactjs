@@ -1,0 +1,113 @@
+{
+  "blog": [
+    {
+      "title": "The Art of Photo",
+      "director": "Creative Photography",
+      "category": "Photography",
+      "description": "Photography is a creative way to capture beautiful moments, emotions, people and places through images.",
+      "date": "2026-09-28",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.t3cxfh00qRsMWA9fPFpJxwHaE7?r=0&pid=Api&h=220&P=0",
+      "id": "1"
+    },
+    {
+      "title": "Traditional Indian Festivals",
+      "director": "Cultural Heritage",
+      "category": "Culture",
+      "description": "Indian festivals bring people together through traditional celebrations, food, music, decorations and cultural activities.",
+      "date": "2026-09-27",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.h555WKj1dYf774JUDPJ3pwHaEL?r=0&pid=Api&h=220&P=0",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Amazing World of Cooking",
+      "director": "Master Chefs",
+      "description": "Cooking combines fresh ingredients, traditional recipes and creativity to create delicious meals for everyone.",
+      "date": "2026-09-26",
+      "category": "Food",
+      "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800"
+    },
+    {
+      "id": "4",
+      "title": "Secrets of the Ocean",
+      "director": "Ocean Researchers",
+      "description": "The oceans cover most of our planet and contain fascinating marine animals, coral reefs and unexplored ecosystems.",
+      "date": "2026-09-25",
+      "category": "Nature",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.AQAjCPXi7BRNx8XRkBSNDgHaEO?r=0&pid=Api&h=220&P=0"
+    },
+    {
+      "id": "5",
+      "title": "The World of Architecture",
+      "director": "Architecture Studio",
+      "description": "Architecture combines creativity, engineering and design to create homes, buildings and remarkable structures.",
+      "date": "2026-09-24",
+      "category": "Architecture",
+      "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=800"
+    },
+    {
+      "id": "6",
+      "title": "Gardening at Home",
+      "director": "Green Garden",
+      "description": "Home gardening is a relaxing activity that allows people to grow flowers, vegetables and plants in small spaces.",
+      "date": "2026-09-23",
+      "category": "Gardening",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800"
+    },
+    {
+      "id": "7",
+      "title": "History of Ancient Civilizations",
+      "director": "History Researchers",
+      "description": "Ancient civilizations developed remarkable cities, cultures, technologies and systems that influenced modern society.",
+      "date": "2026-09-22",
+      "category": "History",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.eLkNVG71LwPLLvFi_iBbFgHaEO?r=0&pid=Api&h=220&P=0"
+    },
+    {
+      "id": "8",
+      "title": "Benefits of Reading Books",
+      "director": "Literature Experts",
+      "description": "Reading books can improve knowledge, vocabulary, imagination and concentration while introducing readers to new ideas.",
+      "date": "2026-09-21",
+      "category": "Books",
+      "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=800"
+    },
+    {
+      "id": "9",
+      "title": "Mountain Adventures",
+      "director": "Adventure Guides",
+      "description": "Mountain adventures offer opportunities for hiking, camping, exploration and experiencing beautiful natural landscapes.",
+      "date": "2026-09-20",
+      "category": "Adventure",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.zVy9PqExXy7qsxr2KaK9fwHaDt?r=0&pid=Api&h=220&P=0"
+    },
+    {
+      "id": "13",
+      "title": "Famous Bridges Around the World",
+      "director": "Civil Engineers",
+      "description": "Bridges connect cities and communities while demonstrating engineering, architecture and human creativity.",
+      "date": "2026-09-16",
+      "category": "Engineering",
+      "image": "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=800"
+    },
+    {
+      "title": "The World of Music",
+      "director": "Music Artists",
+      "category": "Music",
+      "description": "Music is a universal form of expression that brings people together through rhythm, melody and emotions.",
+      "date": "2026-09-15",
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=800",
+      "id": "14"
+    },
+    {
+      "title": "Amazing Desert Landscapes",
+      "director": "Nature Explorers",
+      "category": "Nature",
+      "description": "Deserts have unique landscapes, wildlife and weather conditions that make them some of the most fascinating places on Earth.",
+      "date": "2024-06-19",
+      "image": "https://img.freepik.com/premium-photo/amazing-desert-landscape-wallpaper_692702-20091.jpg?w=2000",
+      "id": "15"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
