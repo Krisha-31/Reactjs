@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "Denish Hiteshbhai Ranpariya",
+      "email": "denyranpariya39160@gmail.com",
+      "password": "5858",
+      "id": 2,
+      "photo": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "deny",
+      "email": "denishpatel@gmail.com",
+      "password": "8888",
+      "id": 3
+    },
+    {
+      "name": "KRISHA",
+      "email": "lichipatel04@gmail.com",
+      "password": "0000",
+      "id": 4
+    },
+    {
+      "name": "KRISHA",
+      "email": "krisha.sangani.3129@gmail.com",
+      "password": "0000",
+      "id": 5,
+      "photo": ""
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Jawan",
+      "poster": "https://tse3.mm.bing.net/th/id/OIP.Swa7skH6yoFDnFHZ41CAgwHaJl?r=0&pid=Api&h=220&P=0",
+      "genre": "Action",
+      "language": "Hindi",
+      "rating": 7,
+      "releaseDate": "2023-09-07",
+      "cast": "Shah Rukh Khan, Nayanthara, Vijay Sethupathi",
+      "description": "A man driven by a personal vendetta rights wrongs in society."
+    },
+    {
+      "id": 2,
+      "title": "Pathaan",
+      "poster": "https://tse3.mm.bing.net/th/id/OIP.hn0m9dMUKJdRalWKhM64SAHaJ4?r=0&pid=Api&h=220&P=0",
+      "genre": "Action",
+      "language": "Hindi",
+      "rating": 6.5,
+      "releaseDate": "2023-01-25",
+      "cast": "Shah Rukh Khan, Deepika Padukone, John Abraham",
+      "description": "An Indian agent races against a ruthless mercenary."
+    },
+    {
+      "id": 3,
+      "title": "Animal",
+      "poster": "https://tse3.mm.bing.net/th/id/OIP.C1krYvDXDVZdzoZOHQ5_jAHaJQ?r=0&pid=Api&h=220&P=0",
+      "genre": "Drama",
+      "language": "Hindi",
+      "rating": 6.2,
+      "releaseDate": "2023-12-01",
+      "cast": "Ranbir Kapoor, Anil Kapoor, Bobby Deol",
+      "description": "A son's obsessive love for his father turns violent."
+    },
+    {
+      "id": 4,
+      "title": "RRR",
+      "poster": "https://tse4.mm.bing.net/th/id/OIP.G3Wsz1dwWKyrU6qHd2StVwHaLC?r=0&pid=Api&h=220&P=0",
+      "genre": "Action",
+      "language": "Telugu",
+      "rating": 7.8,
+      "releaseDate": "2022-03-25",
+      "cast": "N. T. Rama Rao Jr., Ram Charan, Alia Bhatt",
+      "description": "Two revolutionaries fight the British Raj in the 1920s."
+    },
+    {
+      "id": 5,
+      "title": "KGF Chapter 2",
+      "poster": "https://tse2.mm.bing.net/th/id/OIP.mlMIP-Z2iNLItjgmnRs6XwHaLD?r=0&pid=Api&h=220&P=0",
+      "genre": "Action",
+      "language": "Kannada",
+      "rating": 8.2,
+      "releaseDate": "2022-04-14",
+      "cast": "Yash, Sanjay Dutt, Raveena Tandon",
+      "description": "Rocky takes on the mighty Adheera and the government."
+    },
+    {
+      "id": 6,
+      "title": "Kantara",
+      "poster": "https://tse4.mm.bing.net/th/id/OIP.Dlda0MYwvoZTqhSGbLTwhwHaKs?r=0&pid=Api&h=220&P=0",
+      "genre": "Thriller",
+      "language": "Kannada",
+      "rating": 8.2,
+      "releaseDate": "2022-09-30",
+      "cast": "Rishab Shetty, Sapthami Gowda",
+      "description": "A man faces a conflict between folk beliefs and the forest department."
+    },
+    {
+      "id": 7,
+      "title": "3 Idiots",
+      "poster": "https://tse1.mm.bing.net/th/id/OIP.wRYLy2xLMqOE_7e-28K-AwHaKq?r=0&pid=Api&h=220&P=0",
+      "genre": "Comedy",
+      "language": "Hindi",
+      "rating": 8.4,
+      "releaseDate": "2009-12-25",
+      "cast": "Aamir Khan, R. Madhavan, Sharman Joshi",
+      "description": "Three friends rediscover the meaning of education and friendship."
+    }
+  ]
+}
